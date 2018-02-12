@@ -28,7 +28,7 @@ namespace JAMK.IT
                     } while (line.Length > 0);
                     sw.Close();
                 }
-                //avataan tiedosto lukua varten
+                //avataan tiedosto lukua vartena
                 if (File.Exists(myfile))
                 {
                     //näytetään nimet
