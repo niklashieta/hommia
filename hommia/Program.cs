@@ -26,7 +26,7 @@ namespace Collections
                 }
             } while (result);
             for(int i=0;i<list.Count;i++)
-            {
+            {//one
                 int number = list[i];
                 if (i == list.Count - 1)
                 {
